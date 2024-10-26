@@ -1,0 +1,85 @@
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 50px;
+}
+
+@media (max-width: 768px) {
+  html {
+    scroll-padding-top: 50px; /* Tablet navbar height */
+  }
+}
+
+/* Mobile devices */
+@media (max-width: 480px) {
+  html {
+    scroll-padding-top: 40px; /* Mobile navbar height */
+  }
+}
+.img-fluid-custom {
+    height: 200px;
+    object-fit: cover; /* Ensures the image covers the entire area */
+    width: 100%; /* Full width of the card */
+}
+
+.navbar.sticky-top {
+    z-index: 1; 
+}
+
+.background-container {
+    position: relative;
+    background-image: url('/src/images/img_bg.jpg'); 
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+  }
+  
+  .background-contain {
+    position: relative;
+    background-image: url('/src/images/img_contact.jpg'); 
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+  }
+  .content {
+    position: relative;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    background: rgba(0, 0, 0, 0.5); /* Optional: Adds a semi-transparent background to make content readable */
+    border-radius: 8px;
+    flex-wrap: wrap;
+    align-items: stretch;
+  }
+  
+  .instagram-icon {
+    background: linear-gradient(45deg, #E1306C, #C13584, #833AB4, #405DE6);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent; /* This makes the icon itself transparent, so the gradient shows through */
+    display: inline-block;
+  }
+  
+  .icon {
+    color: inherit; /* Use this class for all icons to inherit colors */
+  }
+
+  .footer-row {
+    display: flex; /* Ensure the row uses flexbox */
+  }
+  
+  /* body {
+    background-color: var(--bg-color);
+    color: var(--text-color);
+  } */
+  
+  
