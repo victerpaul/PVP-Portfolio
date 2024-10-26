@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/PVP-Portfolio/static/css/main.7b3ac118.css",
+    "main.js": "/PVP-Portfolio/static/js/main.306b771b.js",
+    "static/js/453.1407b060.chunk.js": "/PVP-Portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/Data_a.jpg": "/PVP-Portfolio/static/media/Data_a.9216bae61f5f1b27d9c6.jpg",
+    "static/media/cloud_cmpt.jpg": "/PVP-Portfolio/static/media/cloud_cmpt.50a889b94a60399c7db0.jpg",
+    "static/media/cn.jpg": "/PVP-Portfolio/static/media/cn.d3176a1d4bcb4d7bb433.jpg",
+    "static/media/victer_sir_home_page.jpg": "/PVP-Portfolio/static/media/victer_sir_home_page.91e4d3cac1ff4eeccaf9.jpg",
+    "static/media/img_bg.jpg": "/PVP-Portfolio/static/media/img_bg.f31fc6f6627441e9933c.jpg",
+    "static/media/img_contact.jpg": "/PVP-Portfolio/static/media/img_contact.e6098d6e46837f86158b.jpg",
+    "static/media/Optimisation.jpg": "/PVP-Portfolio/static/media/Optimisation.11c3326b5eb8492dde55.jpg",
+    "static/media/i_1.png": "/PVP-Portfolio/static/media/i_1.5de63b064a8e6bc4c65b.png",
+    "static/media/i_2.png": "/PVP-Portfolio/static/media/i_2.73216cc04b8240435010.png",
+    "static/media/i_3.png": "/PVP-Portfolio/static/media/i_3.6cc3f6da635726b07ca4.png",
+    "static/media/i_4.png": "/PVP-Portfolio/static/media/i_4.4ff6213f7e9068e24f3b.png",
+    "static/media/victer_sir.webp": "/PVP-Portfolio/static/media/victer_sir.bd4163131dbf39a398eb.webp",
+    "index.html": "/PVP-Portfolio/index.html",
+    "main.7b3ac118.css.map": "/PVP-Portfolio/static/css/main.7b3ac118.css.map",
+    "main.306b771b.js.map": "/PVP-Portfolio/static/js/main.306b771b.js.map",
+    "453.1407b060.chunk.js.map": "/PVP-Portfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b3ac118.css",
+    "static/js/main.306b771b.js"
+  ]
+}
